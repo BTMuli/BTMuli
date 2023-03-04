@@ -2,7 +2,6 @@
 
 ![BTMuli's GitHub stats](https://github-readme-stats.vercel.app/api?username=BTMuli&count_private=true&show_icons=true&theme=minimal)
 ![BTMuli's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=BTMuli)
-![BTMuli's Github activities](https://activity-graph.herokuapp.com/graph?username=BTMuli&theme=minimal)
 
 # My Repos
 
