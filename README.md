@@ -5,12 +5,10 @@
 
 # My Repos
 
-<a href="https://github.com/BTMuli/Adachi-BOT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BTMuli&repo=Adachi-BOT" />
-</a>
 <a href="https://github.com/BTMuli/MuCli">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BTMuli&repo=MuCli" />
 </a>
+<br />
 <a href="https://github.com/BTMuli/Tauri.Genshin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BTMuli&repo=Tauri.Genshin" />
 </a>
