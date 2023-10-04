@@ -1,9 +1,3 @@
-# JetBrains OSS
-
-RequestId: 24092023/12656722
-
-RequestEmail: btmuli@hnu.edu.cn
-
 # My Github
 
 ![BTMuli's GitHub stats](https://github-readme-stats.vercel.app/api?username=BTMuli&count_private=true&show_icons=true&theme=minimal)
