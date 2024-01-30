@@ -1,7 +1,4 @@
-<div class="home-cards">
-  <img class="home-card" src="https://github-readme-stats.vercel.app/api?username=BTMuli&count_private=true&show_icons=true&theme=minimal" alt="stats" />
-  <img class="home-card" src="https://github-readme-streak-stats.herokuapp.com/?user=BTMuli" alt="streak" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=BTMuli&count_private=true&show_icons=true&theme=minimal" alt="stats" />&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=BTMuli" alt="streak" />
 
 ### Languages and Tools
 
@@ -41,20 +38,3 @@
 [![TeyvatGuide](https://github-readme-stats.vercel.app/api/pin/?username=BTMuli&repo=TeyvatGuide)](https://github.com/BTMuli/TeyvatGuide)
 
 ### Sponsor: [爱发电](https://www.afdian.net/a/BTMuli)
-
-<style lang="css">
-.home-cards {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
-  width: 100%;
-  margin: 0;
-  padding: 0;
-}
-.home-card {
-  width: 48%;
-  margin: 0;
-  padding: 0;
-}
-</style>
